@@ -1,0 +1,5 @@
+This is the 1st part of telusko video that covers the initial part of the django project.
+it covers 
+-django setup, 
+-first app creation
+-html templates add in the project
